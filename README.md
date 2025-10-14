@@ -6,6 +6,15 @@ I am a **Cloud Support Engineer with 3.9+ years of experience**, specializing in
 
 I enjoy **solving real-world operational challenges**, keeping cloud systems **reliable, scalable, and secure**, and automating repetitive tasks using modern DevOps practices.
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sandip3004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandip3004" height="30" width="40" /></a>
+<a href="https://instagram.com/unpredictableme_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unpredictableme_" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
 ---
 
 ## 💼 Certifications
@@ -78,6 +87,9 @@ Progressive Educational Society’s Modern College of Engineering, Shivajinagar,
 * Implementing **observability and monitoring** with Grafana, Prometheus, and Loki dashboards
 * Troubleshooting complex compute, network, and application issues across **GCP and AWS**
 
+
+# 💫 About Me:
+Here’s a clean, professional, and attractive **“About Me”** section for your GitHub profile, fully aligned with your background and highlights 👇<br><br>---<br><br>## 👨‍💻 About Me<br><br>Hi 👋, I’m **Sandip** — an enthusiastic **Associate Cloud Engineer @ Cognizant** and a **3X Google Certified Professional** passionate about building scalable, secure, and automated cloud solutions.<br><br>🌩️ **Certifications:**<br><br>* 🏅 Google **Associate Cloud Engineer**<br>* 🧠 Google **Cloud Digital Leader**<br>* 🧩 Google **Workspace Administrator**<br><br>💻 **Core Skills:**<br><br>* ☁️ **Google Cloud Platform (GCP)** — Compute Engine, VPC, IAM, Load Balancing, Storage, and Networking<br>* ⚙️ **Infrastructure as Code (IaC):** Terraform<br>* 🐳 **Containerization:** Docker (Networking, Volumes, Images, Containers)<br>* 🐧 **Operating Systems:** Linux (Ubuntu, CentOS, Red Hat)<br>* 🪟 **Additional Skills:** Windows Server Administration, Shell Scripting, and Automation<br><br>🚀 **Current Focus:**<br><br>* Hands-on projects in **Docker** and **GCP Networking**<br>* Learning **Kubernetes**, **DevOps pipelines**, and **CI/CD automation**<br>* Building a strong portfolio by publishing each lab and project to GitHub<br><br>📚 **Ongoing Journey:**<br>I regularly update my GitHub with new labs, projects, and learnings as I earn new skills and explore advanced cloud topics.<br><br>📫 **How to reach me:**<br>📧 [sandipvgangurde@gmail.com](mailto:sandipvgangurde@gmail.com)<br><br>⚡ **Fun Fact:**<br>I love experimenting with new tech, and my best learning comes from breaking and fixing things myself! 😄<br><br>
 
 
 
