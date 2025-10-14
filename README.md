@@ -17,9 +17,11 @@ I enjoy **solving real-world operational challenges**, keeping cloud systems **r
   <a href="mailto:sandipvgangurde@gmail.com" target="blank" class="icon-link" style="margin-right: 35px;">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="90" width="110" />
   </a>
-  <a href="tel:+917387803780" target="blank" class="icon-link" style="margin-right: 35px;">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="phone" height="90" width="110" />
-  </a>
+<a href="https://wa.me/917387803780" target="_blank" class="icon-link" style="margin-right: 35px;">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="phone" height="90" width="110" />
+</a>
+<br>
+<span style="font-size:18px; font-weight:bold;">📞 +91 7387803780</span>
 
 
 
