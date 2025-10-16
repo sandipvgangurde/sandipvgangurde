@@ -2,7 +2,7 @@
 
 **Associate Cloud Engineer @ Cognizant | 3X Google Certified (GCP ACE, Workspace Admin, Cloud Digital Leader) | Terraform | Docker | Kubernetes | Linux | GCP & AWS | CI/CD & Observability Expert**
 
-I am a **Cloud Support Engineer with 3.9+ years of experience**, specializing in **Google Cloud Platform (GCP)** and cloud infrastructure operations. I have extensive experience in **VM provisioning, Compute Engine, Managed Instance Groups (MIGs), Load Balancers, Autoscalers, VPC networking, firewall configuration, IAM, and troubleshooting complex cloud environments**.
+I am a **Cloud Support Engineer with 3.10+ years of experience**, specializing in **Google Cloud Platform (GCP)** and cloud infrastructure operations. I have extensive experience in **VM provisioning, Compute Engine, Managed Instance Groups (MIGs), Load Balancers, Autoscalers, VPC networking, firewall configuration, IAM, and troubleshooting complex cloud environments**.
 
 I enjoy **solving real-world operational challenges**, keeping cloud systems **reliable, scalable, and secure**, and automating repetitive tasks using modern DevOps practices.
 
