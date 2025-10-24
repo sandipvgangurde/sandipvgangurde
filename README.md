@@ -99,9 +99,9 @@ I enjoy solving complex operational challenges, automating repetitive tasks, and
 * Designed and implemented **Infrastructure as Code (IaC)** using Terraform and Cloud Deployment Manager for scalable, reusable infrastructure.
 * Configured **Compute Engine VMs, Kubernetes Engine clusters, Load Balancers, MIGs, Autoscalers, Cloud Storage, IAM, VPCs, firewall rules, and Secret Manager**.
 * Implemented **VPC Service Controls, Cloud KMS, and Workload Identity Federation** to enhance security posture and compliance.
-* Automated CI/CD pipelines and infrastructure provisioning, ensuring consistent deployments and reducing errors.
+* Automated **CI/CD pipelines** and infrastructure provisioning, ensuring **consistent deployments and reducing errors**.
 * Monitored system performance with **Cloud Monitoring, Cloud Logging, Prometheus, Grafana, and Loki**, proactively resolving bottlenecks.
-* Collaborated with cross-functional teams to troubleshoot complex GCP issues, optimize workloads, and maintain high availability.
+* Collaborated with **cross-functional teams** to **troubleshoot complex GCP issues, optimize workloads** and **maintain high availability**.
 * Led migration of workloads to VMs and managed containerized applications via **Artifact Registry and GKE**.
 
 ---
@@ -115,7 +115,7 @@ Modern College of Engineering, Pune (Savitribai Phule Pune University) – 2016�
 
 ## 📫 Contact
 
-* **Location:** Pale Khurd, Nashik, Maharashtra, India
+* **Location:** Nashik, Maharashtra, India
 * **Mobile:** +91 7387803780
 * **Email:** [sandipvgangurde@gmail.com](mailto:sandipvgangurde@gmail.com)
 * **LinkedIn:** [linkedin.com/in/sandip3004](https://www.linkedin.com/in/sandip3004)
